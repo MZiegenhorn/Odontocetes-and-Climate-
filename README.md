@@ -16,13 +16,21 @@ Please read on for a description of all files.
 Note that for these files as well as their associated .csv files (which are used in the master modelling script), the following classes of odontocetes are considered: 
 
 class1- Blainville's beaked whale, Mesoplodon densirostris
+
 class2- Cuvier's beaked whale, Ziphius cavirostris
+
 class3- false killer whale, Pseudorca crassidens
+
 class4- Rough-toothed dolphin, Steno bredanensis
+
 class5_6- short-finned pilot whale, Globicephala Macrorhyncus
+
 class7_8- stenellid dolphins, mix of Stenella longirostris, Stenella attenuata, and Stenella coruleoalba
+
 class9- common bottlenose dolphin/ melon-headed whale, Tursiops truncatus/Pepnocephala electra
+
 class10- Kogia spp (pgymy and dwarf sperm whale), Kogia breviceps and Kogia sima
+
 
 6. Hawaii_counts_finalData.csv; Manawai_counts_finalData.csv - these files contain the same data as in 5, but in CSV format.
 
