@@ -36,7 +36,9 @@ class10- Kogia spp (pgymy and dwarf sperm whale), Kogia breviceps and Kogia sima
 
 7. masterModellingScript.R - An R script used for creating all models in the related manuscript.
 
-8. modifyHYCOMforCSV.m - A MATLAB script used to convert downloaded HYCOM data to 
+
+
+Any questions about this code and dataset should be directed to Morgan A. Ziegenhorn, maziegenhorn36@gmail.com. Please feel free to reach out!
 
 
 
