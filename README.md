@@ -11,7 +11,7 @@ Please read on for a description of all files.
 
 4. gmt_HAWAII.mat: MATLAB code (using Generic Mapping Tools) to produce Fig. 1 in the related manuscript.
 
-5. Hawaii_allclasses_counts_finalData.mat; Manawai_allclasses_counts_finalData.mat: MATLAB files containing a table of odontocete detections and corresponding values of oceanographic variables (sea surface temperature, sea surface salinity, sea surface height, ENSO, PDO, NPGO) at the specified site. Daily values are given. More information can be found in the associate manuscript.
+5. Hawaii_allclasses_counts_finalData.mat; Manawai_allclasses_counts_finalData.mat: MATLAB files containing a table of odontocete detections and corresponding values of oceanographic variables (sea surface temperature, sea surface salinity, sea surface height, ENSO, PDO, NPGO) at the specified site. Daily values are given. More information can be found in the associated manuscript.
 
 Note that for these files as well as their associated .csv files (which are used in the master modelling script), the following classes of odontocetes are considered: 
 
